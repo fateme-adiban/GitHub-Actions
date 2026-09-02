@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
-    "module": "commonjs",
+    "module": "NodeNext",
     "esModuleInterop": true,
     "target": "es6",
-    "moduleResolution": "node",
+    "moduleResolution": "NodeNext",
     "removeComments": true,
     "sourceMap": false,
 
@@ -14,7 +14,7 @@
     "skipLibCheck": true,
     "allowJs": true,
     // "checkJs": true,
-    
+
     "strict": false,
     "types": ["jest", "node"]
   },
